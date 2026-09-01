@@ -1,9 +1,7 @@
 <?php
 
 // Full Name: Enamullah Moatasim
-// Student ID: YOUR_STUDENT_ID
-
-// Task 2
+// Student ID: 7
 
 class StudentCounter
 {
